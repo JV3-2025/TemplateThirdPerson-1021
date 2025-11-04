@@ -72,3 +72,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Fichiers système d'exploitation (macOS, Windows)
+# ------------------------------------
+
+# Fichiers de métadonnées macOS "dot-underscore"
+._*
+
+# Fichiers de métadonnées macOS "DS_Store"
+.DS_Store
+
+# Cache de vignettes Windows
+Thumbs.db
